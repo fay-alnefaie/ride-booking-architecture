@@ -22,7 +22,7 @@ High-fidelity UI/UX mockup built in Figma.
 
 ## Documentation
 
-[View Document]((https://github.com/fay-alnefaie/ride-booking-architecture/blob/f67b56c4a936ccab07f24cab953f9180237f6ce0/ride-booking-architecture.pdf))
+[View Document](https://github.com/fay-alnefaie/ride-booking-architecture/blob/c9a7c2109a3b505d25d93cc728d1cb3c490cb146/ride-booking-architecture.pdf)
 
 ## Tools & Techniques
 
